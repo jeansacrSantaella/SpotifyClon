@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "spoticlon"
+    }
+  },
+  "defaultProject": "spoticlon",
+  "cli": {
+    "analytics": "949ba715-22b0-4377-9664-75c095763d1f"
+  }
 }
